@@ -1,0 +1,5 @@
+{  
+// Provider for formatting. Possible options include 'autopep8', 'black', and 'yapf'.
+"python.formatting.provider": "yapf"
+
+}
