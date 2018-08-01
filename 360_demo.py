@@ -10,4 +10,3 @@ chrome_options.binary_location = __browser_url
 
 driver = webdriver.Chrome(chrome_options=chrome_options)
 driver.get('http://www.baidu.com')
-time.sleep(3)
